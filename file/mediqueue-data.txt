@@ -1,0 +1,44 @@
+N|1025|9
+A|A-1001|Juan Dela Cruz|Dr. Maria Santos|2026-10-29|09:00|Cancelled
+A|A-1002|Maria Lopez|Dr. Pedro Reyes|2026-10-29|09:30|Cancelled
+A|A-1003|Carlo Santos|Dr. Ana Aquino|2026-10-29|10:00|Waiting
+A|A-1004|Ana Rivera|Dr. Maria Santos|2026-10-29|10:30|Waiting
+A|A-1005|Maria Villanueva|Dr. Pedro Reyes|2026-10-29|11:00|Confirmed
+A|A-1006|Magboo Jhon Aldrin M.|Dr. Pedro Reyes|2026-12-26|09:00|Cancelled
+A|A-1007|Tiffany|Dr. Maria Santos|2026-10-31|13:30|Cancelled
+A|A-1008|Tiffany|Dr. Maria Santos|2026-10-31|14:00|Cancelled
+A|A-1009|Tiffany|Dr. Pedro Reyes|2026-10-31|14:00|Confirmed
+A|A-1010|Tiffany|Dr. Maria Santos|2026-10-31|14:30|Confirmed
+A|A-1011|Tiffany|Dr. Juan Cruz|2026-11-11|13:30|Completed
+A|A-1012|Tiffany|Dr. Maria Santos|2026-11-11|16:30|Completed
+A|A-1013|Tiffany|Dr. Maria Santos|2026-11-11|16:00|Completed
+A|A-1014|Tiffany|Dr. Maria Santos|2026-11-12|16:30|Cancelled
+A|A-1015|Tiffany|Dr. Ana Aquino|2026-11-12|09:00|Confirmed
+A|A-1016|Tiffany|Dr. Ana Aquino|2026-11-12|10:30|Confirmed
+A|A-1017|Timothy Garcia|Dr. Juan Cruz|2026-11-13|09:00|Completed
+A|A-1018|Timothy Garcia|Dr. Ana Aquino|2026-11-13|09:30|In Consultation
+A|A-1019|Popol A. Kupa|Dr. Juan Cruz|2026-11-13|09:30|Cancelled
+A|A-1020|Popol A. Kupa|Dr. Juan Cruz|2026-11-13|10:00|Confirmed
+A|A-1021|Popol A. Kupa|Dr. Maria Santos|2026-11-13|10:00|Scheduled
+A|A-1022|Haru harambe|Dr. Maria Santos|2026-11-13|11:00|Confirmed
+A|A-1023|Popol A. Kupa|Dr. Maria Santos|2026-11-13|15:30|Confirmed
+A|A-1024|Timothy Garcia|Dr. Juan Cruz|2026-11-13|15:30|Confirmed
+A|A-1025|Timothy Garcia|Dr. Maria Santos|2026-11-17|13:00|Completed
+P|P-002|Maria Lopez|29|Female|0918 765 4321|Oct 29, 2026
+P|P-003|Carlo Santos|41|Male|0922 345 6789|Oct 28, 2026
+P|P-004|Ana Rivera|26|Female|0933 456 7890|Oct 28, 2026
+P|P-005|Maria Villanueva|52|Female|0945 678 1234|Oct 27, 2026
+P|P-007|Tiffany|19|Female|09123456789|-
+P|P-008|Marcus M Magboo|17|Male|0912-456-8765|-
+P|P-009|Marian Magtibay|||09385951335|-
+P|P-010|Timothy Garcia|||0912 345 6565|-
+P|P-011|Popol A. Kupa|||0918-566-9873|-
+P|P-012|Haru harambe|99|Other|09995355771|-
+S|2|Dr. Pedro Reyes|2026-10-29|9:00 AM - 4:00 PM|true
+S|3|Dr. Juan Cruz|2026-10-29|10:00 AM - 2:00 PM|true
+S|4|Dr. Ana Aquino|2026-10-29|9:00 AM - 12:00 PM|true
+S|5|Dr. Maria Santos|2026-10-31|9:00 AM - 12:00 PM|true
+S|6|Dr. Maria Santos|2026-11-02|9:00 AM - 3:00 PM|true
+S|7|Dr. Pedro Reyes|2026-10-30|9:00 AM - 4:00 PM|true
+S|8|Dr. Maria Santos|2026-11-11|10:00 AM - 2:00 PM|true
+S|9|Dr. Maria Santos|2026-11-11|1:00 PM - 5:00 PM|true

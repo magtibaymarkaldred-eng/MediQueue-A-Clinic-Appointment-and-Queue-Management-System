@@ -1,0 +1,13 @@
+aldred|admin|Mark Aldred Magtibay||KU8sL1RhiC0UHoUvK/bwUQ==|yzsgYSGAKrf51WzEsTux10Hrr4uTuwn4ZFZa88soKvs=
+tiffany|patient|Tiffany||Aq/yuRDVXf6BCeSM1cGZ+w==|c3fimRZW4TKFOwlfrZCEzUwqVdrEFMDCDFNVQ40v1X8=
+aj|patient|AJ||LTAHRwQg9JXhzYmqzsm7zw==|mOfC7QDFlN71arpKjYhqbfmP26EiFkxHlwMZEyt/H84=
+stephen|patient|Stephen||i6KGNc59OSbV8U5hrYhnSQ==|A4zb6cOc66/uQYzQh1wZhNm94RuExxlE8yeg6JlWJoo=
+JAY|patient|Magboo Jhon Aldrin M.|09475790820|SWjIyjv345CosOwjF/CgyQ==|MSwIrc45oDC2fyFxEaxstWO90u5gyYkPmyHTb4V5ciA=
+Marcus|patient|Marcus M Magboo|0912-456-8765|SQg0lEfcCidlKHdSaLq8tw==|HyklSX0unPfLTQX54IP8no+GriqndxqsFnR39Y3JjJg=
+tieydiar|admin|Tiffany Ani Dela Rama|09770757019|mCBGFpII8yCAOmm07MwK2w==|SEgvQ926n+L/yMFSrhvZfT2R2ezOT0nCjEpQH+hrCRw=
+jayplays|admin|Magboo, Jhon Aldrin M.|09475790820|flWqttE59x4ijvk0BOfHow==|OGoXAOXheEOVsX/4ex/DETUWUj0rb+jmdixKfg8XhQ0=
+andriii|admin|Stephen Andre Glovo|09126499562|h/85PeNVsBI+FJe7fJ305Q==|l2o5tj/Vr5m3/SMOZv8UFU47pJ5781sjQKajcBLB8xY=
+Marian|patient|Marian Magtibay|09385951335|bj4KbkPUEnc+lJNBH8AN/g==|KxdLCW8AojN0pHTXGW5cN4Rtwjc5Bym+AaUy6FS054U=
+Tim|patient|Timothy Garcia|0912 345 6565|3T12hCMpsArx7S2gBQombg==|6P/AXJbtF7yIZOJDqTXLdfPAMSJwTRwuouGqPiHtcmY=
+Popol|patient|Popol A. Kupa|0918-566-9873|eL8JZ0vwLgXC8Q5lHUNhHg==|DXoRdZcT2eYqs2JesVOvla3mb3bG/0gAxFhQ8bRqkzA=
+Harambe|patient|Haru harambe|09995355771|hn+36+aWHDb8jCAEPXnEQA==|cSedjweh5np2GfKKdiL7784RlitDadpCATpUMvB5YBQ=
